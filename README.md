@@ -47,10 +47,15 @@ First of all you have to compile and deploy the ERC20 file and then copy the con
 
 Contributors names and contact info
 
-Utkarsh Gupta
-https://www.linkedin.com/in/utkarsh-gupta-b099b6282/
+Akhanda Pal Biswas 
+[@Akhanda](https://www.linkedin.com/in/akhanda-pal-biswas-445a88230/)
 
 
 ## License
 
 This project is licensed under the MIT License - see the LICENSE.md file for details
+
+
+
+
+
